@@ -1,0 +1,83 @@
+[{
+    "payer": "Gretchen Hunter",
+    "payee": "Isabel Saunders",
+    "amount": "100.00",
+    "created_at": "December 17, 2015",
+    "modeOfPayment": "Cash",
+    "notes": "Dinner Cash",
+    "paymentType": "Income"
+}, {
+    "payer": "Isabel Saunders",
+    "payee": "Caroline Adkins",
+    "amount": "50.00",
+    "created_at": "December 28, 2015",
+    "modeOfPayment": "Electronic Transfer",
+    "notes": "Money Owed",
+    "paymentType": "Expense"
+}, {
+    "payer": "Isabel Saunders",
+    "payee": "Wall-E Mart Inc.",
+    "amount": "280.00",
+    "created_at": "December 31, 2015",
+    "modeOfPayment": "Credit Card",
+    "notes": "New Year's Gift",
+    "paymentType": "Expense"
+}, {
+    "payer": "Marian Floyd",
+    "payee": "Isabel Saunders",
+    "amount": "98.00",
+    "created_at": "January 04, 2016",
+    "modeOfPayment": "Cash",
+    "notes": "Dinner Share",
+    "paymentType": "Income"
+}, {
+    "payer": "Random Inc.",
+    "payee": "Isabel Saunders",
+    "amount": "2500.00",
+    "created_at": "January 04, 2016",
+    "modeOfPayment": "Electronic Transfer",
+    "notes": "Salary",
+    "paymentType": "Income"
+}, {
+    "id": 6,
+    "payer": "Isabel Saunders",
+    "payee": "Gretchen Hunter",
+    "amount": "250.00",
+    "created_at": "January 05, 2016",
+    "modeOfPayment": "Electronic Transfer",
+    "notes": "Rent Share",
+    "paymentType": "Expense"
+}, {
+    "id": 7,
+    "payer": "Isabel Saunders",
+    "payee": "Wall-E Mart Inc.",
+    "amount": "100.00",
+    "created_at": "January 07, 2016",
+    "modeOfPayment": "Credit Card",
+    "notes": "Monthly Provisions",
+    "paymentType": "Expense"
+}, {
+    "payer": "BitiBank LTD.",
+    "payee": "Isabel Saunders",
+    "amount": "500.00",
+    "created_at": "January 10, 2016",
+    "modeOfPayment": "Electronic Transfer",
+    "notes": "Credit Card Payment",
+    "paymentType": "Expense"
+}, {
+    "payer": "New Venture Inc.",
+    "payee": "Isabel Saunders",
+    "amount": "600.00",
+    "created_at": "January 15, 2016",
+    "modeOfPayment": "Cash",
+    "notes": "Side Project Payment",
+    "paymentType": "Income"
+}, {
+    "payer": "Isabel Saunders",
+    "payee": "Drunkards Pub",
+    "amount": "100.00",
+    "created_at": "January 15, 2016",
+    "modeOfPayment": "Credit Card",
+    "notes": "Night Out",
+    "paymentType": "Expense"
+}]

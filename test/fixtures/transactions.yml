@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  payer: MyString
+  payee: MyString
+  notes: MyText
+  modeOfPayment: MyString
+  type: 
+  amount: 9.99
+
+two:
+  payer: MyString
+  payee: MyString
+  notes: MyText
+  modeOfPayment: MyString
+  type: 
+  amount: 9.99

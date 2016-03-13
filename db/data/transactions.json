@@ -39,7 +39,6 @@
     "notes": "Salary",
     "paymentType": "Income"
 }, {
-    "id": 6,
     "payer": "Isabel Saunders",
     "payee": "Gretchen Hunter",
     "amount": "250.00",
@@ -48,7 +47,6 @@
     "notes": "Rent Share",
     "paymentType": "Expense"
 }, {
-    "id": 7,
     "payer": "Isabel Saunders",
     "payee": "Wall-E Mart Inc.",
     "amount": "100.00",
